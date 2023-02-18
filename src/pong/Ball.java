@@ -6,7 +6,7 @@ import javax.swing.*;
 
 public class Ball extends Rectangle{ //We make our Ball class a subclass of Rectangle so we can treat is as a Rectangle
 
-	
+	//TEST commit 
 	Random random;			//instance of Random
 	int xVelocity;          //How fast our ball moves on the x axis
 	int yVelocity;			//How fast our ball moves on the y axis
